@@ -25,3 +25,7 @@ This project uses Apache JMeter to test two APIs:
 - Data: Used CSV files for dynamic data.
 - Assertions: Ensured successful transaction responses.
 - Ramp-up: 120-second ramp-up for each transaction type.
+
+# Load and Stress Test Excel Report -
+
+https://docs.google.com/spreadsheets/d/185uJf6f6KcpWjQBXxodi1DGnjHck7MGhDwQnLUosgys/edit?usp=sharing
