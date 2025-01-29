@@ -29,3 +29,15 @@ This project uses Apache JMeter to test two APIs:
 # Load and Stress Test Excel Report -
 
 https://docs.google.com/spreadsheets/d/185uJf6f6KcpWjQBXxodi1DGnjHck7MGhDwQnLUosgys/edit?usp=sharing
+
+# Generated Load Test Html Report for booking API collection-
+![image](https://github.com/user-attachments/assets/2f0f3c12-bbed-4022-a2b6-9fdd31590dd4)
+
+![image](https://github.com/user-attachments/assets/c71b07f7-55e0-4afa-8ddf-8450311cd982)
+
+# Generated Stress Test HTML Report for booking API Collection-
+
+
+
+
+
